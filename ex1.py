@@ -1,8 +1,4 @@
-print ("Hello World!")
-print ("Hello World!")
-print ("Hello World!")
-
-def run():
+def test():
   print ("Hello World!")
   #print "Hello Again"
   #print "I like typing this."
